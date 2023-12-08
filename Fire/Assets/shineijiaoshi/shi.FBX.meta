@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 93590edf9bcc7114f886f8cf8baf322b
+timeCreated: 1523525743
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box013
+    100004: logo_02_01
+    100006: Object001
+    100008: Object027
+    100010: Object028
+    100012: Object034
+    100014: Object035
+    100016: Object040
+    100018: Object050
+    100020: Object055
+    100022: Object056
+    100024: Object057
+    100026: Object058
+    100028: Object059
+    100030: Object061
+    100032: Object063
+    100034: Plane001
+    100036: school_lab_Almera_02_Rt_Door
+    100038: school_lab_Almera_02_Rt_Handle1
+    100040: school_lab_Lab_Table_02
+    100042: school_lab_Stage
+    100044: school_lab_White_Boards
+    100046: //RootNode
+    400000: Box001
+    400002: Box013
+    400004: logo_02_01
+    400006: Object001
+    400008: Object027
+    400010: Object028
+    400012: Object034
+    400014: Object035
+    400016: Object040
+    400018: Object050
+    400020: Object055
+    400022: Object056
+    400024: Object057
+    400026: Object058
+    400028: Object059
+    400030: Object061
+    400032: Object063
+    400034: Plane001
+    400036: school_lab_Almera_02_Rt_Door
+    400038: school_lab_Almera_02_Rt_Handle1
+    400040: school_lab_Lab_Table_02
+    400042: school_lab_Stage
+    400044: school_lab_White_Boards
+    400046: //RootNode
+    2300000: Box001
+    2300002: Box013
+    2300004: logo_02_01
+    2300006: Object001
+    2300008: Object027
+    2300010: Object028
+    2300012: Object034
+    2300014: Object035
+    2300016: Object040
+    2300018: Object050
+    2300020: Object055
+    2300022: Object056
+    2300024: Object057
+    2300026: Object058
+    2300028: Object059
+    2300030: Object061
+    2300032: Object063
+    2300034: Plane001
+    2300036: school_lab_Almera_02_Rt_Door
+    2300038: school_lab_Lab_Table_02
+    2300040: school_lab_Stage
+    2300042: school_lab_White_Boards
+    3300000: Box001
+    3300002: Box013
+    3300004: logo_02_01
+    3300006: Object001
+    3300008: Object027
+    3300010: Object028
+    3300012: Object034
+    3300014: Object035
+    3300016: Object040
+    3300018: Object050
+    3300020: Object055
+    3300022: Object056
+    3300024: Object057
+    3300026: Object058
+    3300028: Object059
+    3300030: Object061
+    3300032: Object063
+    3300034: Plane001
+    3300036: school_lab_Almera_02_Rt_Door
+    3300038: school_lab_Lab_Table_02
+    3300040: school_lab_Stage
+    3300042: school_lab_White_Boards
+    4300000: school_lab_White_Boards
+    4300002: school_lab_Stage
+    4300004: Object001
+    4300006: Box001
+    4300008: Object027
+    4300010: school_lab_Lab_Table_02
+    4300012: Plane001
+    4300014: Object028
+    4300016: school_lab_Almera_02_Rt_Door
+    4300018: Object034
+    4300020: Object035
+    4300022: Object040
+    4300024: Object050
+    4300026: Object055
+    4300028: Box013
+    4300030: logo_02_01
+    4300032: Object056
+    4300034: Object057
+    4300036: Object058
+    4300038: Object059
+    4300040: Object061
+    4300042: Object063
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box00101
+    second: {fileID: 2100000, guid: de3f4b4a5b294074fb75be16b2b3e23d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box00102
+    second: {fileID: 2100000, guid: 0b4e49938f2dc6c449e2ae1eec21e922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box013
+    second: {fileID: 2100000, guid: d4e0fd462c4187a499a36cda0130bb14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #492'
+    second: {fileID: 2100000, guid: a49001890906d25488362adbce18f124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #493'
+    second: {fileID: 2100000, guid: 63b211c21b381b54aa03b67e6571358a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object00101
+    second: {fileID: 2100000, guid: eac9326995ccc294c93b08e7b37c875b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object00102
+    second: {fileID: 2100000, guid: b061d4dc98f81854683f872eef4ec965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object00103
+    second: {fileID: 2100000, guid: 473c3e481a536794db5a099e11273b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object027
+    second: {fileID: 2100000, guid: f6baf008e56919c47a1ae30a122c72a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object028
+    second: {fileID: 2100000, guid: 450edf6bf9f9e1d41bf8f3b382360da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object030
+    second: {fileID: 2100000, guid: 776622f7de56d8d419ec67503d5be21f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object03401
+    second: {fileID: 2100000, guid: f00fd1738c04a6545a36fb534233a2d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object03402
+    second: {fileID: 2100000, guid: 8096ddaee518b68469a2591f7c75920d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object03403
+    second: {fileID: 2100000, guid: b034b8c7c3311ac49952715d39c3c961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object03404
+    second: {fileID: 2100000, guid: 0524882515b86664bb09133d3edee483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object03405
+    second: {fileID: 2100000, guid: 6781f36aeb0df3e4db30de23fe898bd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object03501
+    second: {fileID: 2100000, guid: bcb1a2c86960471409ee978803edbb1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object04001
+    second: {fileID: 2100000, guid: e40699445d0f72f468545409018b2305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object04002
+    second: {fileID: 2100000, guid: 9e392f9d348eaa04bab3443c74522d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object04003
+    second: {fileID: 2100000, guid: 95c157605d1dcaf48a26c3dc29e10c5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05001
+    second: {fileID: 2100000, guid: bb73318bdb6c64041bca165731e15e21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object055
+    second: {fileID: 2100000, guid: 81a744c08c471794eb238fa23ce550ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05601
+    second: {fileID: 2100000, guid: ad8f7fb8e5644774386957593fe1fd9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05701
+    second: {fileID: 2100000, guid: 5ae5d45073712594fb902f885aa524cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05801
+    second: {fileID: 2100000, guid: b0d9f8733e7dba045a85e5729f3b8e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05901
+    second: {fileID: 2100000, guid: 9cb7db052e4cc3c4882a51fe7779a5e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05902
+    second: {fileID: 2100000, guid: 8deadc909f0258c4a8f7c30d8a26aaf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05903
+    second: {fileID: 2100000, guid: 533eb6411785da64c8c590a6cd642b2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05904
+    second: {fileID: 2100000, guid: 0524882515b86664bb09133d3edee483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05905
+    second: {fileID: 2100000, guid: e1053cfc3a691bb4ca4633f859ea476b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05906
+    second: {fileID: 2100000, guid: 44a68e2bb40b5a64dbc0377e63656b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane001
+    second: {fileID: 2100000, guid: 4bfe423e2a78c8b4c83bfd0673d4b2ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo_02_0101
+    second: {fileID: 2100000, guid: bac10909b74243746a89369006ba2ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo_02_0102
+    second: {fileID: 2100000, guid: e47107e53ad4ed542855d164389e91fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: school_lab_Almera_02_Rt_Door01
+    second: {fileID: 2100000, guid: 30a9f37f27161ab428d20f823f9302fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: school_lab_Lab_Table_0201
+    second: {fileID: 2100000, guid: c6f41c98f2279fd438313ebe9d588391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: school_lab_Lab_Table_0202
+    second: {fileID: 2100000, guid: 9a1e1ddd62e22c64ba469edfd2f2efbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: school_lab_White_Boards01
+    second: {fileID: 2100000, guid: bf923497e6fc6424889872815996c39b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: school_lab_White_Boards02
+    second: {fileID: 2100000, guid: d8268065d6a14a44a975f163efeb1f27, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
